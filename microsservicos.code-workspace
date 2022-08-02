@@ -9,11 +9,11 @@
       "path": "zuul-server"
     },
     {
-      "name": "animais-ms",
-      "path": "animais-ms"
+      "name": "produto-ms",
+      "path": "produto-ms"
     },
     {
-      "path": "pessoas-ms"
+      "path": "venda-ms"
     },
     {
       "name": "config-server",
